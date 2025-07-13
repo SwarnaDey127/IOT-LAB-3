@@ -1,0 +1,181 @@
+Starting Test:
+Baud: 9600, Size: 10, Interval: 0ms
+Test Results:
+Messages Sent: 100
+Messages Received: 100
+Errors: 0
+Error Rate: 0.00 %
+Throughput: 398.72 bytes/sec
+Message Rate: 39.87 msg/sec
+Starting Test:
+Baud: 9600, Size: 10, Interval: 10ms
+Test Results:
+Messages Sent: 100
+
+Errors: 0
+Ernor Rate: 0.00 ₴
+Throughput: 398.72 bytes/sec
+Message Rate: 39.87 msg/sec
+Starting Test:
+Baud: 9600, Size: 10, Interval: 10ms
+Test Results:
+Messages Sent: 100
+Messages Received: 100
+Enrors: 0
+Error Rate: 0.00 ₴
+Throughput: 284.82 bytes/sec
+Message Rate: 28.48 msg/sec
+
+Throughput: 284.82 bytes/sec
+Message Rate: 28.48 msg/sec
+Starting Test:
+Baud: 9600, Size: 10, Incerval: 100ms
+Test Results:
+Messages Sent: 100
+Messages Received: 100
+Errors : 0
+Error Rate: 0.00 %
+Throughput: 79.92 bytes/sec
+Message Rate: 7.99 msg/sec
+Starting Test:
+Baud: 9600, Size: 50, Interval: 0ms
+
+Error Rate: 0.00 %
+Throughput: 79.92 bytes/sec
+Message Rate: 7.99 msg/sec
+starting lest:
+Baud: 9600, Size: 50, Interval: ms
+Test Results:
+Messages Sent: 100
+Messages Received: 100
+Error : 0
+Error Rate: 0.00 ₴
+Throughput: 461.00 bytes/ sec
+Message Rate: 9.22 mag/sec
+
+Errors: 0
+Error Rate: 0.00 ₴
+Throughput: 461.00 bytes/sec
+Message Rate: 9.22 msg/sec
+Starting lest:
+Baud: 9600, Size: 50, Interval: 10ms
+Test Results:
+Messages Sent: 100
+Messages Received: 100
+Errors: 0
+Error Rate: 0.00 %
+Throughput: 421.94 bytes/sec
+Message Rate: 8.44 msg/sec
+
+Throughput: 421.94 bytes/sec
+Message Rate: 8.44 msg/sec
+Stanting Test:
+Baud: 9600, Size: 50, Incerval: 100ms
+Test Results:
+Messages Sent: 100
+Messages Received: 100
+Errors: 0
+Error Rate: 0.00 ₴
+Throughput: 239.81 bytes/sec
+Message Rate: 4.80 msg/seo
+Starting Test:
+Baud: 9600, Size: 100, Interval: O ms
+
+Error Rate: 0.00 ₴
+Throughput: 239.81 bytes/sec
+Message Rate: 4.80 msg/sec
+Starting Test:
+Baud: 9600, Size: 100, Interval: Ons
+Test Results:
+Messages Sent: 100
+Messages Received: 100
+Errors: 0
+Error Rate: 0.00 %
+Throughput: 470.23 bytes/sec
+Message Rate: 4.70 msg/sec
+Starting Test:
+
+Errors: 0
+Error Rate: 0.00 %
+Throughput: 1572.33 bytes/sec
+Message Rate: 157.23 msg/sec
+Starting Test:
+Baud: 38400, Size: 10, Interval: 10ms
+Test Results:
+Messages Sent: 100
+Messages Received:
+100
+Error : 0
+Error Rate: 0.00 %
+Throughput: 610.13 bytes/ sec
+Message Rate: 61.01
+maa/sec
+
+Errors: 0
+Error Rate: 0.00 ₴
+Throughput: 1336.54 bytes/sec
+Message Rate: 26.73 msg/sec
+Starting Test:
+Baud: 38400, Size: 50, Interval: 100ms
+Test Results:
+Messages Sent: 100
+Messages Received:
+100
+Errors: 0
+Error Rate: 0.00 %
+Throughput: 392.53 bytes/sec
+Message Rate: 7.85 msg/sec
+
+Test Results:
+Messages Sent: 100
+Messages Received: 100
+Errors: 0
+Error Rate: 0.00 %
+Throughput: 93.98 bytes/sec
+Message Rate: 9.40 msg/sec
+Starting Test:
+Baud: 38400, Size: 50,
+Interval: Oms
+Test Results:
+Messages Sent: 100
+Messages Received: 100
+Errors: 0
+Error Rate: 0.00 %
+
+Messages Sent: 100
+Messages Received: 100
+Errors: 0
+Error Rate: 0.00 ₴
+Throughput: 610.13 bytes/sec
+Message Rate: 61.01 msg/sec
+Starting Test:
+Baud: 38400, Size: 10, Interval: 100mg
+Test Results:
+Messages Sent: 100
+Messages Received: 100
+Errors: 0
+Error Rate: 0.00 %
+Ihroughput: 93.98 bytes/sec
+
+Message Rate: 157.23 msg/sec
+Starting Test:
+Baud: 38400, Size: 10, Interval: 10ms
+Test Results:
+Messages Sent: 100
+Messages Received: 100
+Enrons: 0
+Error Rate: 0.00 %
+Throughput: 610.13 byth/sec
+Message Rate: 61.01 msg/sec
+Starting Test:
+Baud: 38400, Size: 10, Interval: 100ms
+
+Starting Test:
+Baud: 38400, Size: 50, Interval: 10ms
+Test Results:
+Messages Sent: 100
+Messages Received: 100
+Errors: 0
+Error Rate: 0.00 %
+Throughput: 1336.54 bytes/sec
+Message Rate: 26.73 msg/sec
